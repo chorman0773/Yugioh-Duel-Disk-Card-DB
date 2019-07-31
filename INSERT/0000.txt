@@ -1,0 +1,1 @@
+INSERT INTO "main"."Cards"("Cardid","Name","CardInfoFile") VALUES (0x30430501F0B5,'Number 39: Utopia','info/84013237.lua');
